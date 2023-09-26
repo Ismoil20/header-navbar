@@ -326,4 +326,37 @@ h1 {
   .right_img {
     left: 25%;
   }
+  header {
+    background-image: none;
+    background-color: #5956e9;
+  }
+}
+@media screen and (max-width: 400px) {
+  html {
+    font-size: 30%;
+  }
+  .container {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  .left_text p {
+    font-size: 14px;
+  }
+  .left_text h4 {
+    font-size: 18px;
+  }
+  .Rectangle {
+    left: 2%;
+    width: 400px;
+  }
+  .left_text {
+    left: 1%;
+    width: 350px;
+  }
+  .right_img {
+    left: 17%;
+  }
 }
