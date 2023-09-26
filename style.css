@@ -359,4 +359,7 @@ h1 {
   .right_img {
     left: 17%;
   }
+  header {
+    background-color: #5956e9;
+  }
 }
