@@ -264,7 +264,7 @@ h1 {
     max-width: 90%;
   }
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
   .container {
     max-width: 90%;
     margin: 0 auto;
@@ -351,6 +351,7 @@ h1 {
   .Rectangle {
     left: 1%;
     width: 355px;
+    overflow-x: hidden;
   }
   .left_text {
     left: 1%;
